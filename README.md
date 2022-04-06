@@ -1,6 +1,6 @@
-# Workshop jeu d'échec
+# Workshop jeu d'échecs
 
-## Jeu d'échec réalisé sous forme de workshop pour aider les étudiants en Java
+## Jeu d'échecs réalisé sous forme de workshop pour aider les étudiants en Java
 ### Ce jeu respecte le standard ECS (Entity Component System), design pattern commun pour la conception de jeux vidéos
 
 * Le dossier `entities` contient toutes les entités du jeu, c-à-d les pièces dans le cas du jeu d'échecs
